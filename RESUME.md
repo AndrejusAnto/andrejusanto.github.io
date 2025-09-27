@@ -1,8 +1,8 @@
 # Andrejus Antoninovas (Kaunas)
 Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
+| [andrejusantoninovas@gmail.com](mailto:andrejusantoninovas@gmail.com)
+| [+060127197](tel:+060127197)
+| [https://andrejusanto.github.io/programuok/](https://andrejusanto.github.io/programuok/)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
 ## About me
