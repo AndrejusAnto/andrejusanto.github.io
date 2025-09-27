@@ -1,4 +1,4 @@
-# Andrejus Antoninvas (Kaunas)
+# Andrejus Antoninovas (Kaunas)
 
 Create a professional resume website and PDF for free using GitHub Pages and Quarto!
 
