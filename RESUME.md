@@ -1,5 +1,5 @@
 # Andrejus Antoninovas (Kaunas)
-Data Analyst
+Programuotojas
 | [andrejusantoninovas@gmail.com](mailto:andrejusantoninovas@gmail.com)
 | [+060127197](tel:+060127197)
 | [https://andrejusanto.github.io/programuok/](https://andrejusanto.github.io/programuok/)
