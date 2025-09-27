@@ -1,4 +1,3 @@
-# Quarto Resume Template
 # Andrejus Antoninvas (Kaunas)
 
 Create a professional resume website and PDF for free using GitHub Pages and Quarto!
