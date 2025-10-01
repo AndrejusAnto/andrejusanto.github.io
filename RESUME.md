@@ -1,9 +1,9 @@
 # Andrejus Antoninovas
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+Programuotojas
+| [andrejusantoninovas@gmail.com](mailto:andrejusantoninovas@gmail.com)
+| 060127197
+| [https://andrejusanto.github.io/programuok/](https://andrejusanto.github.io/programuok/)
+| [linkedin.com/in/andrejus-antoninovas](https://www.linkedin.com/in/andrejus-antoninovas-58a802b6/)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
