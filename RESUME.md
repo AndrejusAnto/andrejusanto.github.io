@@ -1,4 +1,4 @@
-[Turing diplomas](Turing-Andrejus_Antoninovas.png)
+![Turing diplomas](Turing-Andrejus_Antoninovas.png)
 # Andrejus Antoninovas
 Programuotojas
 | [andrejusantoninovas@gmail.com](mailto:andrejusantoninovas@gmail.com)
