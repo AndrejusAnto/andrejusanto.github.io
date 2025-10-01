@@ -1,3 +1,5 @@
+![](Turing-Andrejus_Antoninovas.png)
+
 # Andrejus Antoninovas
 Programuotojas
 | [andrejusantoninovas@gmail.com](mailto:andrejusantoninovas@gmail.com)
@@ -62,8 +64,6 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Gimp'u redaguojant nuotraukas
   
   * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
-
-![testas](Turing-Andrejus_Antoninovas.png)
 
   **Savybės:**
   
