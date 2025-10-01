@@ -67,9 +67,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   
   **Savybės:**
   
-  cv.lt asmeninių gebėjimų testas (https://www.cv.lt/karjerostestas#!?tab=GABUMAI):
-  
-  Jūsų gabumus lemia šie intelekto tipai:
+  cv.lt asmeninių gebėjimų testas teigia, kad gabumus lemia šie intelekto tipai:
   
   Vidinis - 19.7%
   
@@ -91,7 +89,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   
   Natūralistinis intelektas pasireiškia kaip pagarbi ir tausojanti meilė gamtai, gebėjimas ją stebėti, ja rūpintis, ją globoti. Tai – šiuolaikinio žmogaus neprarastojo ryšio su žeme, gyvybės ciklais ir biologiniais ritmais apraiška.
   
-  cv.lt karjeros interesų testas (https://www.cv.lt/karjerostestas#!?tab=INTERESAI):
+  cv.lt karjeros interesų testo rezultatai:
   
   Socialinis tipas ypač vertina paslaugas kitiems, teisingumą, supratimą, betarpiškumą. Save suvokia kaip draugišką, patikimą ir padedantį kitiems, gailestingą, dosnų, nuoširdų. Ką nors darydamas visada atsižvelgia į aplinkinių žmonių nuomones, stengiasi rasti visus tenkinantį sprendimą. Jam patinka dirbti su grupe, jis linkęs asmeniškai aukotis, kad įvykdytų grupės uždavinius. Siekdamas sutarimo, kartais nepaiso darbo efektyvumo. Per daug domisi smulkmenomis ir kitų nuomone.
   
@@ -106,4 +104,4 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   
   **Kursai:**
   
-  CodeAcademy pravedžiau supažindinimo Python'o kursą.
+  CodeAcademy pravedžiau Python'o supažindinimo kursą.
