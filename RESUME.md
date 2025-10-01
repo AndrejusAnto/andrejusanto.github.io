@@ -26,6 +26,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
   
   * Pagalba kolegoms kompiuterinių problemų atveju
+![Turing diplomas](Turing-Andrejus_Antoninovas.png)
 
 **Sugebėjimai:**
   
@@ -62,7 +63,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Gimp'u redaguojant nuotraukas
   
   * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
-  ![Turing diplomas](Turing-Andrejus_Antoninovas.png)
+
   **Savybės:**
   
   cv.lt asmeninių gebėjimų testas teigia, kad gabumus lemia šie intelekto tipai:
