@@ -1,4 +1,4 @@
-!(Turing-Andrejus_Antoninovas.png)
+![](Turing-Andrejus_Antoninovas.png)
 
 # Andrejus Antoninovas
 Programuotojas
