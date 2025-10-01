@@ -9,7 +9,7 @@ Programuotojas
 
 # CV
 
-![Turing diplomas](Turing-Andrejus_Antoninovas.pdf)
+[Turing diplomas](Turing-Andrejus_Antoninovas.pdf)
 
 **Pagrindinis išsilavinimas:**
 
