@@ -1,4 +1,3 @@
-![Turing diplomas](Turing-Andrejus_Antoninovas.png)
 # Andrejus Antoninovas
 Programuotojas
 | [andrejusantoninovas@gmail.com](mailto:andrejusantoninovas@gmail.com)
@@ -8,6 +7,7 @@ Programuotojas
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
+![Turing diplomas](Turing-Andrejus_Antoninovas.png)
 # CV
 
 **Pagrindinis išsilavinimas:**
