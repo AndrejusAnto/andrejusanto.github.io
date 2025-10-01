@@ -26,6 +26,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
   
   * Pagalba kolegoms kompiuterinių problemų atveju
+
 ![Turing diplomas](Turing-Andrejus_Antoninovas.png)
 
 **Sugebėjimai:**
