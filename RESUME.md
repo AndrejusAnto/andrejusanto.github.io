@@ -7,8 +7,6 @@ Programuotojas
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
-![Turing diplomas](Turing-Andrejus_Antoninovas.png)
-
 # CV
 
 **Pagrindinis išsilavinimas:**
@@ -64,7 +62,7 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Gimp'u redaguojant nuotraukas
   
   * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
-  
+  ![Turing diplomas](Turing-Andrejus_Antoninovas.png)
   **Savybės:**
   
   cv.lt asmeninių gebėjimų testas teigia, kad gabumus lemia šie intelekto tipai:
