@@ -5,6 +5,9 @@ Programuotojas
 | [https://andrejusanto.github.io/programuok/](https://andrejusanto.github.io/programuok/)
 | [linkedin.com/in/andrejus-antoninovas](https://www.linkedin.com/in/andrejus-antoninovas-58a802b6/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejusAnto)](https://github.com/AndrejusAnto/github-readme-stats)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
+
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
 
