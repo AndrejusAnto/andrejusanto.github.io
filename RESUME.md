@@ -11,7 +11,6 @@ Programuotojas
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
 ## Python:
-  
   https://github.com/AndrejusAnto/bestcalc
   
   https://github.com/AndrejusAnto/versadauzduotis
@@ -21,7 +20,6 @@ Programuotojas
   https://github.com/AndrejusAnto/zintistyrimas
   
   https://github.com/AndrejusAnto/aliobutai
-
 ## C:
   
   https://github.com/AndrejusAnto/Cprograming
