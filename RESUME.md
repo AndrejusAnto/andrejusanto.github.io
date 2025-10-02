@@ -10,24 +10,7 @@ Programuotojas
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
-# CV
-**Pagrindinis išsilavinimas:**
 
-Vytauto Didžiojo Universietas (2004 - 2008) - Ekonomistas (bakalauras)
-
-**Darbo patirtis:**
-
-Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, taip pat apie mėn. kauno kooperacijos didmeninės prekybos sandėlyje.
-
-UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinės pareigybės:
-  
-  * Duomenų suvedimas į apskaitos sistemą
-  
-  * Ataskaitų rengimas
-  
-  * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
-  
-  * Pagalba kolegoms kompiuterinių problemų atveju
 
 **Sugebėjimai:**
   
@@ -101,8 +84,26 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
   * Lietuvių
   
   * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
+
+**Pagrindinis išsilavinimas:**
+
+  Vytauto Didžiojo Universietas (2004 - 2008) - Ekonomistas (bakalauras)
+
+**Darbo patirtis:**
+
+  Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, taip pat apie mėn. kauno kooperacijos didmeninės prekybos sandėlyje.
+
+  UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinės pareigybės:
   
-  **Kursai:**
+    * Duomenų suvedimas į apskaitos sistemą
+  
+    * Ataskaitų rengimas
+  
+    * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
+  
+    * Pagalba kolegoms kompiuterinių problemų atveju
+  
+**Kursai:**
   
   CodeAcademy pravedžiau Python'o supažindinimo kursą.
 
