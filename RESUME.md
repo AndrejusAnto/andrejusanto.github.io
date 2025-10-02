@@ -10,8 +10,6 @@ Programuotojas
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
-
-
 **Sugebėjimai:**
   
   * Pramokęs programuoti su Python'u
@@ -22,7 +20,7 @@ Programuotojas
   
   * Moku dirbit su daugeliu office tipo programom ir pan.
   
-  *Susipažinęs:*
+*Susipažinęs:*
   
   * Python bibliotekomis: pandas, numpy, bokeh.
   
@@ -48,25 +46,11 @@ Programuotojas
   
   * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
 
-  **Savybės:**
+**Savybės:**
   
   cv.lt asmeninių gebėjimų testas teigia, kad gabumus lemia šie intelekto tipai:
   
-  Vidinis - 19.7%
-  
-  Natūralistinis - 14.5%
-  
-  Verbalinis - 13.7% 
-  
-  Loginis/matematinis - 12.8%
-  
-  Tarpasmeninis - 12.0%
-  
-  Kinestezinis - 12.0%
-  
-  Erdvinis - 9.4%
-  
-  Muzikinis - 6.0%
+  Vidinis - 19.7%, Natūralistinis - 14.5%, Verbalinis - 13.7%, Loginis/matematinis - 12.8%, Tarpasmeninis - 12.0%, Kinestezinis - 12.0%, Erdvinis - 9.4%, Muzikinis - 6.0%
   
   Vidinis intelektas – tai gabumas pažinti save, paaiškinti savo ir kitų žmonių mintis, jausmus, emocijas, nusipiešti tikslų savo psichologinį portretą, ieškoti atsakymų į būties klausimus. Žmogus, kurio vidinis intelektas dominuoja, yra jautrus savo vertybėms, gerai pažįsta savo jausmus, pranašumus, trūkumus, puikiai suvokia savo tikslą, turi intuiciją, vidinę motyvaciją. Vidinio intelekto žmonės yra linkę į savianalizę ir individualizmą, jiems nesvetimas uždarumas. Kartais kitų jie yra vertinami kaip keistoki.
   
@@ -79,7 +63,7 @@ Programuotojas
   Tyrinėtojo tipas vertina pasitikėjimą savimi, nepriklausomus, originalius sprendimus, gilias teorines žinias, gerą išsilavinimą. Save suvokia kaip protingą, smalsų, logišką, tikslų, analitišką, santūrų. Pirmumą teikia protiniam, moksliniam darbui, siekdamas pažinti materialaus, socialinio ar dvasinio pasaulio raidą. Mėgsta dirbti savarankiškai, analizuoti problemas, priežastis, duomenis, vertinti galimybes, numatyti veikimo planą, daryti išvadas, priimti sprendimus. Kartais gali susitelkti ties detalėmis ir nematyti visumos. Gali iškelti daug klausimų, pateikti daug smulkmenų ir neišdėstyti esmės.
   
   
-  **Kalbos:**
+**Kalbos:**
    
   * Lietuvių
   
@@ -91,17 +75,17 @@ Programuotojas
 
 **Darbo patirtis:**
 
-  Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, taip pat apie mėn. kauno kooperacijos didmeninės prekybos sandėlyje.
+Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, taip pat apie mėn. kauno kooperacijos didmeninės prekybos sandėlyje.
 
-  UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinės pareigybės:
+UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinės pareigybės:
   
-    * Duomenų suvedimas į apskaitos sistemą
-  
-    * Ataskaitų rengimas
-  
-    * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
-  
-    * Pagalba kolegoms kompiuterinių problemų atveju
+  * Duomenų suvedimas į apskaitos sistemą
+    
+  * Ataskaitų rengimas
+    
+  * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
+    
+  * Pagalba kolegoms kompiuterinių problemų atveju
   
 **Kursai:**
   
