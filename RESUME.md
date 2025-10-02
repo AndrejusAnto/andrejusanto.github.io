@@ -13,16 +13,16 @@ Programuotojas
 ## Python:
   [https://github.com/AndrejusAnto/bestcalc](https://github.com/AndrejusAnto/bestcalc)
   
-  https://github.com/AndrejusAnto/versadauzduotis
+  [https://github.com/AndrejusAnto/versadauzduotis](https://github.com/AndrejusAnto/versadauzduotis)
   
-  https://github.com/AndrejusAnto/tvwatch
+  [https://github.com/AndrejusAnto/tvwatch](https://github.com/AndrejusAnto/tvwatch)
   
-  https://github.com/AndrejusAnto/zintistyrimas
+  [https://github.com/AndrejusAnto/zintistyrimas](https://github.com/AndrejusAnto/zintistyrimas)
   
-  https://github.com/AndrejusAnto/aliobutai
+  [https://github.com/AndrejusAnto/aliobutai](https://github.com/AndrejusAnto/aliobutai)
 
 ## C:
-https://github.com/AndrejusAnto/Cprograming
+[https://github.com/AndrejusAnto/Cprograming](https://github.com/AndrejusAnto/Cprograming)
 
 **Sugebėjimai:**
   
