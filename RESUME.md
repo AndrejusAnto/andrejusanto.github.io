@@ -1,4 +1,4 @@
-# Išsilavinimas susijęs su dabartiniais karjeros tiksliais: programuotojas/duomenų analitikas
+# Išsilavinimas susijęs su dabartiniais karjeros tiksliais
 ![](Turing-Andrejus_Antoninovas.png)
 
 # Andrejus Antoninovas
