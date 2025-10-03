@@ -21,8 +21,10 @@ Programuotojas
 - [versadauzduotis](https://github.com/AndrejusAnto/versadauzduotis) (Python)
 - [zintistyrimas](https://github.com/AndrejusAnto/zintistyrimas) (Python)
 
+
 ## C:
 - [Cprograming](https://github.com/AndrejusAnto/Cprograming) (C)
+
 
 
 **Sugebėjimai:**
