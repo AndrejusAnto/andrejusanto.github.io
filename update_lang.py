@@ -13,7 +13,8 @@ LANG_MAP = {
 }
 
 # Resume file path
-RESUME_FILE = "Resume.md"
+RESUME_FILE = "RESUME.md"
+# RESUME_FILE = "RESUME.md"
 
 # GitHub token (provided by Actions)
 TOKEN = os.getenv("GITHUB_TOKEN")
