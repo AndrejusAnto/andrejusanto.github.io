@@ -75,7 +75,7 @@ jobs:
             echo "No changes to commit."
             echo "changed=false" >> $GITHUB_OUTPUT
           else
-            git add Resume.md
+            git add RESUME.md
             git commit -m "🤖 Update Resume – auto‑generated list of repos"
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
