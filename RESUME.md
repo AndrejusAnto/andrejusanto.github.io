@@ -1,3 +1,4 @@
+- [Turing-projektai](https://github.com/AndrejusAnto/Turing-projektai) (Jupyter Notebook)
 # Išsilavinimas susijęs su dabartiniais karjeros tiksliais
 ![](Turing-Andrejus_Antoninovas.png)
 
@@ -26,8 +27,10 @@ Programuotojas
 
 
 
+
 ## C:
 - [Cprograming](https://github.com/AndrejusAnto/Cprograming) (C)
+
 
 
 
