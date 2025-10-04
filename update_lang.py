@@ -56,10 +56,8 @@ def update_resume(repos_by_lang):
                 for name, url, lang in repos_by_lang[current_lang]:
                     # print(name)
                     if name not in ["andrejusanto.github.io", "test-workflow"]:
-                        if name.strip() == "Turing-projektai":
-                            updated_lines.insert(0, f"- [{name}]({url}) ({lang})\n")
-                        else:
-                            updated_lines.append(f"- [{name}]({url}) ({lang})\n")
+                        updated_lines.insert(0, f"- [{name}]({url}) ({lang})\n")
+                    updated_lines.append(f"- [{name}]({url}) ({lang})\n")
                 updated_lines.append("\n")
             continue
 
