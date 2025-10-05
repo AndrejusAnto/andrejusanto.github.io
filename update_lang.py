@@ -52,11 +52,15 @@ def update_resume(repos_by_lang):
             current_lang = lang_name if lang_name in repos_by_lang else None
             updated_lines.append(line)
             if current_lang:
+                temp_list = []
                 # Insert the new repo list for this language
                 for name, url, lang in repos_by_lang[current_lang]:
-                    print(name)
                     if name not in ["andrejusanto.github.io", "test-workflow"]:
-                        updated_lines.append(f"- [{name}]({url}) ({lang})\n")
+                        if name == "Turing-projektai":
+                            temp_list.insert(0, f"- [{name}]({url}) ({lang})\n")
+                        else:
+                            temp_list.append(f"- [{name}]({url}) ({lang})\n")
+                updated_lines.extend(temp_list)
                 updated_lines.append("\n")
             continue
 
