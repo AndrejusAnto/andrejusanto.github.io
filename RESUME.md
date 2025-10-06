@@ -20,10 +20,8 @@ Programuotojas
 - [versadauzduotis](https://github.com/AndrejusAnto/versadauzduotis) (Python)
 - [zintistyrimas](https://github.com/AndrejusAnto/zintistyrimas) (Python)
 
-
 ## C:
 - [Cprograming](https://github.com/AndrejusAnto/Cprograming) (C)
-
 
 **Sugebėjimai:**
   
@@ -39,7 +37,7 @@ Programuotojas
   
   * Python bibliotekomis: pandas, numpy, bokeh.
   
-  * Bash/shell script'inimu https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh
+  * Bash/shell script'inimu https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
   
   * Virtualenv (conda) ir virtualizacijos programomis (Gnome Boxes, VirtualBox ir pan.)
   
