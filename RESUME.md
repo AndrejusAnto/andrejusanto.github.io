@@ -20,10 +20,8 @@ Programuotojas
 - [versadauzduotis](https://github.com/AndrejusAnto/versadauzduotis) (Python)
 - [zintistyrimas](https://github.com/AndrejusAnto/zintistyrimas) (Python)
 
-
 ## C:
 - [Cprograming](https://github.com/AndrejusAnto/Cprograming) (C)
-
 
 **Sugebėjimai:**
   
@@ -47,9 +45,9 @@ Programuotojas
   
   * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
   
-  * Machine Learning (Scikit-learn, Keras (TensorFlow))
+  * Machine Learning (Scikit-learn, Keras (TensorFlow)).
   
-  * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb)
+  * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb).
   
   * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
   
