@@ -51,9 +51,9 @@ Programuotojas
   
   * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
   
-  * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH)
+  * Blender'iu (3D programa https://www.youtube.com/watch?v=BQ9vbdqxeQk&list=PL0EQUv65iMdyg8GHlblAYAB5F0RSHXXMH).
   
-  * Video redagavimu (Blender)
+  * Video redagavimu (Blender).
   
   * Gimp'u redaguojant nuotraukas
   
