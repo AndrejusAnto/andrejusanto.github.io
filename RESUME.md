@@ -55,7 +55,7 @@ Programuotojas
   
   * Video redagavimu (Blender).
   
-  * Gimp'u redaguojant nuotraukas
+  * Gimp'u redaguojant nuotraukas.
   
   * Dabar mokausi C programavimo kalbą (išspręstus challengus galima pasižiūrėti čia https://www.hackerrank.com/andrejusantonin1?hr_r=1)
 
