@@ -20,10 +20,8 @@ Programuotojas
 - [versadauzduotis](https://github.com/AndrejusAnto/versadauzduotis) (Python)
 - [zintistyrimas](https://github.com/AndrejusAnto/zintistyrimas) (Python)
 
-
 ## C:
 - [Cprograming](https://github.com/AndrejusAnto/Cprograming) (C)
-
 
 **Sugebėjimai:**
   
@@ -31,7 +29,7 @@ Programuotojas
   
   * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas.
   
-  * Nebijau komandinės eilutės
+  * Nebijau komandinės eilutės.
   
   * Moku dirbit su daugeliu office tipo programom ir pan.
   
