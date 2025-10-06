@@ -20,14 +20,12 @@ Programuotojas
 - [versadauzduotis](https://github.com/AndrejusAnto/versadauzduotis) (Python)
 - [zintistyrimas](https://github.com/AndrejusAnto/zintistyrimas) (Python)
 
-
 ## C:
 - [Cprograming](https://github.com/AndrejusAnto/Cprograming) (C)
 
-
 **Sugebėjimai:**
   
-  * Pramokęs programuoti su Python'u
+  * Galiu programuoti su Python'u ir C.
   
   * Moku instaliuoti (naudoti) Linux'us, Windows'us ir programas, kaip pagrindinė operacinę sistemą naudoju Linux'us
   
