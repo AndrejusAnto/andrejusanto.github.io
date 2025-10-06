@@ -10,6 +10,12 @@ Programuotojas
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="200" height="200" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="190" height="190" />
 
+**Kalbos:**
+   
+  * Lietuvių
+  
+  * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
+
 ## Python:
 - [Turing-projektai](https://github.com/AndrejusAnto/Turing-projektai) (Jupyter Notebook)
 - [aliobutai](https://github.com/AndrejusAnto/aliobutai) (Jupyter Notebook)
@@ -76,11 +82,6 @@ Programuotojas
   Tyrinėtojo tipas vertina pasitikėjimą savimi, nepriklausomus, originalius sprendimus, gilias teorines žinias, gerą išsilavinimą. Save suvokia kaip protingą, smalsų, logišką, tikslų, analitišką, santūrų. Pirmumą teikia protiniam, moksliniam darbui, siekdamas pažinti materialaus, socialinio ar dvasinio pasaulio raidą. Mėgsta dirbti savarankiškai, analizuoti problemas, priežastis, duomenis, vertinti galimybes, numatyti veikimo planą, daryti išvadas, priimti sprendimus. Kartais gali susitelkti ties detalėmis ir nematyti visumos. Gali iškelti daug klausimų, pateikti daug smulkmenų ir neišdėstyti esmės.
   
   
-**Kalbos:**
-   
-  * Lietuvių
-  
-  * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
 
 **Pagrindinis išsilavinimas:**
 
