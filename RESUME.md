@@ -16,6 +16,10 @@ Programuotojas
   
   * Anglų - suprantu, bet neturiu daug patirties kalbant arba rašant.
 
+**Kursai:**
+  
+  CodeAcademy pravedžiau Python'o supažindinimo kursą.
+
 ## Python:
 - [Turing-projektai](https://github.com/AndrejusAnto/Turing-projektai) (Jupyter Notebook)
 - [aliobutai](https://github.com/AndrejusAnto/aliobutai) (Jupyter Notebook)
@@ -80,8 +84,6 @@ Programuotojas
   Socialinis tipas ypač vertina paslaugas kitiems, teisingumą, supratimą, betarpiškumą. Save suvokia kaip draugišką, patikimą ir padedantį kitiems, gailestingą, dosnų, nuoširdų. Ką nors darydamas visada atsižvelgia į aplinkinių žmonių nuomones, stengiasi rasti visus tenkinantį sprendimą. Jam patinka dirbti su grupe, jis linkęs asmeniškai aukotis, kad įvykdytų grupės uždavinius. Siekdamas sutarimo, kartais nepaiso darbo efektyvumo. Per daug domisi smulkmenomis ir kitų nuomone.
   
   Tyrinėtojo tipas vertina pasitikėjimą savimi, nepriklausomus, originalius sprendimus, gilias teorines žinias, gerą išsilavinimą. Save suvokia kaip protingą, smalsų, logišką, tikslų, analitišką, santūrų. Pirmumą teikia protiniam, moksliniam darbui, siekdamas pažinti materialaus, socialinio ar dvasinio pasaulio raidą. Mėgsta dirbti savarankiškai, analizuoti problemas, priežastis, duomenis, vertinti galimybes, numatyti veikimo planą, daryti išvadas, priimti sprendimus. Kartais gali susitelkti ties detalėmis ir nematyti visumos. Gali iškelti daug klausimų, pateikti daug smulkmenų ir neišdėstyti esmės.
-  
-  
 
 **Pagrindinis išsilavinimas:**
 
@@ -101,8 +103,5 @@ UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinė
     
   * Pagalba kolegoms kompiuterinių problemų atveju
   
-**Kursai:**
-  
-  CodeAcademy pravedžiau Python'o supažindinimo kursą.
 
   
