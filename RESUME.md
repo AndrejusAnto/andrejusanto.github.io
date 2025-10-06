@@ -51,13 +51,13 @@ Programuotojas
   
   * Virtualenv (conda) ir virtualizacijos programomis (Gnome Boxes, VirtualBox ir pan.).
   
-  * Webscraping'imu https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py.
+  * Webscraping'imu [https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py](https://github.com/Orasporas/aliobutai/blob/master/aliobutai.py).
   
-  * Docker https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh.
+  * Docker [https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh](https://github.com/Orasporas/Blender-3D-stuff/blob/master/blenderdocker.sh).
   
   * Machine Learning (Scikit-learn, Keras (TensorFlow)).
   
-  * Sql duomenų basėmis (https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb).
+  * Sql duomenų basėmis [https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb](https://github.com/Orasporas/aliobutai/blob/master/sqlaliobutai.ipynb).
   
   * Su kompiuterinėmis dalimis, pagrindines galiu atpažinti, bet neesu sudėjęs kompiuterio.
   
