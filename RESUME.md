@@ -95,13 +95,10 @@ Universiteto laikais kelios vasaros pagalbiniu darbininku Senukų sandėliuose, 
 
 UAB INIT Abonentų apskaitos specialistas (2011.07.01 - 2017.03.17). Pagrindinės pareigybės:
   
-  * Duomenų suvedimas į apskaitos sistemą
+  * Duomenų suvedimas į apskaitos sistemą.
     
-  * Ataskaitų rengimas
+  * Ataskaitų rengimas.
     
-  * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas
+  * Pagalba programuotojams ieškant klaidų ir sprendžiant iškilusias problemas.
     
-  * Pagalba kolegoms kompiuterinių problemų atveju
-  
-
-  
+  * Pagalba kolegoms kompiuterinių problemų atveju.
