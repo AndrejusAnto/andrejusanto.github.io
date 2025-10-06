@@ -62,7 +62,7 @@ def update_resume(repos_by_lang):
                             temp_list.append(f"- [{name}]({url}) ({lang})\n")
                 print(temp_list)
                 updated_lines.extend(temp_list)
-                updated_lines.append("\n")
+                # updated_lines.append("\n")
             continue
 
         # Skip old repo entries if we’re inside a language block
